@@ -1,2 +1,2 @@
 #!/bin/bash
--nal,
+ls -aln
