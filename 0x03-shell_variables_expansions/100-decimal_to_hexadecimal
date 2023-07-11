@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((BINARY#$ * 16))
+printf '%x\n' $DECIMAL
