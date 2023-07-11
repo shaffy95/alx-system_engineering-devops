@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "The sum of WATER and STIR is: $result_bestchol"
+echo "$result_bestchol"
