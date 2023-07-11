@@ -1,2 +1,2 @@
 #!/bin/bash
-paste -d, - - | cut -d, -f1
+echo "The sum of WATER and STIR is: $result_bestchol"
